@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammadimathstar
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Natural Language Processing and Graph Embedding
+- 👀 I’m interested in Machine learning 
+- 🌱 I’m currently learning about Natural Language Processing (NLP) and Graph Embedding
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by my email: mohammadimathstar@gmail.com 
 
