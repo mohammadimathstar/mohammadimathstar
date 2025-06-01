@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammadimathstar (see my ![portfolio ](https://mohammadimathstar.github.io/)
+- 👋 Hi, I’m @mohammadimathstar (see my [portfolio](https://mohammadimathstar.github.io/))
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently working on the development of interpretable models for texts and images.
 - 💞️ I’m looking to collaborate on ...
